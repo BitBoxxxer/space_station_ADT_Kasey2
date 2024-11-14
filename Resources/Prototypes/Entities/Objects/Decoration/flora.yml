@@ -479,7 +479,25 @@
         - WallLayer
   - type: LimitedItemGiver
     spawnEntries:
-      - id: PresentRandom
+      - id: ADTPresentRandomRed
+        orGroup: present
+      - id: ADTPresentRandomPurple
+        orGroup: present
+      - id: ADTPresentRandomGreen
+        orGroup: present
+      - id: ADTPresentRandomBlue
+        orGroup: present
+      - id: PresentRandomUnsafe
+        prob: 0.25
+        orGroup: present
+      - id: ADTPresentRandomInsaneSyndicate
+        prob: 0.10
+        orGroup: present
+      - id: toyC4Package
+        prob: 0.10
+        orGroup: present
+      - id: cardboardGift
+        prob: 0.10
         orGroup: present
       - id: PresentRandomCash
         prob: 0.20
@@ -627,3 +645,5 @@
   - type: Sprite
     sprite: Objects/Decoration/Flora/flora_treeslight.rsi
     state: tree06
+
+

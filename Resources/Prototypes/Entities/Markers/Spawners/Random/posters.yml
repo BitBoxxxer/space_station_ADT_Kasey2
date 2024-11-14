@@ -190,5 +190,10 @@
       - ADTPosterPlasmaMan
       - ADTPosterError
       - ADTPosterNoBad
+      - ADTPosterNewYear2
+      - ADTPosterNewYear3
+      - ADTCristmasWreath
+      - ADTCristmasWreath2
+      - ADTCristmasWreath3
       #ADT tweak ^^^
     chance: 1

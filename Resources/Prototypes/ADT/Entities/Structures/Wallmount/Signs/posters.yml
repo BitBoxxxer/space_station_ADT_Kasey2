@@ -392,7 +392,7 @@
   suffix: New Year
   components:
   - type: Sprite
-    sprite: ADT/Structures/Wallmounts/poster_new_year.rsi #спрайты от prazat911
+    sprite: ADT/Objects/Decoration/poster_new_year.rsi #спрайты от prazat911
     state: new_year2
 
 - type: entity
@@ -403,7 +403,7 @@
   suffix: New Year
   components:
   - type: Sprite
-    sprite: ADT/Structures/Wallmounts/poster_new_year.rsi #спрайты от prazat911
+    sprite: ADT/Objects/Decoration/poster_new_year.rsi #спрайты от prazat911
     state: new_year3
 
 #Хеллоуинский декор
